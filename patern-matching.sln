@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatternMathcing", "PatternMathcing.csproj", "{99DF9120-B112-4B05-B086-11C716354DEB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatternMathcing.Tests", "..\PatternMathcing.Tests\PatternMathcing.Tests.csproj", "{480C87FB-A81E-4D88-AD53-FB5D17D0F717}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatternMathcing.Tests", "..\PatternMathcing.Tests\PatternMathcing.Tests.csproj", "{D40DB173-B6D5-45F3-A977-0590A4E0566B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{99DF9120-B112-4B05-B086-11C716354DEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99DF9120-B112-4B05-B086-11C716354DEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99DF9120-B112-4B05-B086-11C716354DEB}.Release|Any CPU.Build.0 = Release|Any CPU
-		{480C87FB-A81E-4D88-AD53-FB5D17D0F717}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{480C87FB-A81E-4D88-AD53-FB5D17D0F717}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{480C87FB-A81E-4D88-AD53-FB5D17D0F717}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{480C87FB-A81E-4D88-AD53-FB5D17D0F717}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D40DB173-B6D5-45F3-A977-0590A4E0566B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D40DB173-B6D5-45F3-A977-0590A4E0566B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D40DB173-B6D5-45F3-A977-0590A4E0566B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D40DB173-B6D5-45F3-A977-0590A4E0566B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
